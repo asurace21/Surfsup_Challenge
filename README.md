@@ -5,6 +5,7 @@ For this challenge we will be further analyzing weather data for Hawaii in order
 ## Results 
 ![image](https://user-images.githubusercontent.com/106443196/189758763-e365ed84-9c49-4352-aa2c-93f68e02f369.png)
 ![image](https://user-images.githubusercontent.com/106443196/189758783-6b5b1791-05ce-4bf2-a349-290f01ecc5e8.png)
+
 3 Key Differences in weather between June and December
 * The minimum temperature in June is 64 and in December it's 56
 * The standard deviation for June is 3.3 and in December it's 3.7
